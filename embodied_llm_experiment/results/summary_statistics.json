@@ -1,0 +1,17 @@
+{
+  "basic_experiments": {
+    "total_tasks": 3,
+    "successful_tasks": 3,
+    "average_execution_time": 2.0662943522135418e-05
+  },
+  "error_handling_experiments": {
+    "total_tasks": 3,
+    "successful_tasks": 1,
+    "error_types": {
+      "obstacles": 0,
+      "missing_objects": 0,
+      "gripper_state": 0
+    },
+    "recovery_success_rate": 0.3333333333333333
+  }
+}

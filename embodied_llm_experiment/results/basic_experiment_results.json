@@ -1,0 +1,38 @@
+[
+  {
+    "task": "pick up the red block and place it on the shelf",
+    "success": true,
+    "message": "Sequence PickAndPlaceSequence completed successfully",
+    "execution_time": 5.316734313964844e-05,
+    "execution_history": [
+      [
+        true,
+        "Sequence PickAndPlaceSequence completed successfully"
+      ]
+    ]
+  },
+  {
+    "task": "grab the blue block and put it on the table",
+    "success": true,
+    "message": "Sequence DefaultBehavior completed successfully",
+    "execution_time": 5.0067901611328125e-06,
+    "execution_history": [
+      [
+        true,
+        "Sequence DefaultBehavior completed successfully"
+      ]
+    ]
+  },
+  {
+    "task": "move the red block from the shelf to the table",
+    "success": true,
+    "message": "Sequence DefaultBehavior completed successfully",
+    "execution_time": 3.814697265625e-06,
+    "execution_history": [
+      [
+        true,
+        "Sequence DefaultBehavior completed successfully"
+      ]
+    ]
+  }
+]

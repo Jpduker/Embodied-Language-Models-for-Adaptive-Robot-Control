@@ -1,0 +1,25 @@
+[
+  {
+    "task": "pick up the red block and place it on the shelf",
+    "success": false,
+    "message": "Maximum error recovery attempts reached",
+    "execution_history": []
+  },
+  {
+    "task": "pick up the red block and place it on the shelf",
+    "success": false,
+    "message": "Maximum error recovery attempts reached",
+    "execution_history": []
+  },
+  {
+    "task": "pick up the red block and place it on the shelf",
+    "success": true,
+    "message": "Sequence PickAndPlaceSequence completed successfully",
+    "execution_history": [
+      [
+        true,
+        "Sequence PickAndPlaceSequence completed successfully"
+      ]
+    ]
+  }
+]
